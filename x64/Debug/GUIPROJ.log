@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  GUIPROJ.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GUIPROJ.vcxproj -> G:\first term\image processing\Project1\GUIPROJ\x64\Debug\GUIPROJ.exe

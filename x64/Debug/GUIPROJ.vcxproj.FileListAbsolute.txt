@@ -1,0 +1,2 @@
+G:\first term\image processing\Project1\GUIPROJ\x64\Debug\GUIPROJ.vcxproj.AssemblyReference.cache
+G:\first term\image processing\Project1\GUIPROJ\x64\Debug\GUIPROJ.exe
